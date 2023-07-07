@@ -1,3 +1,3 @@
 # personal_website
-Hand-coded personal website, hosted at:
+Backup and tracking changes for hand-coded personal website, hosted at:
 http://michaelsekatchev.byethost7.com/
